@@ -1,5 +1,7 @@
 # Getting Started with GitHub Copilot
 
+Repository for IBM event.
+
 _Get started using GitHub Copilot in less than an hour._
 
 ## Welcome
